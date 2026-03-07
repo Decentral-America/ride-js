@@ -104,7 +104,7 @@
     "@waves/ride-lang": "1.6.1",
     "@waves/ride-repl": "1.6.1",
     "@waves/ts-lib-crypto": "1.5.1-snapshot.2",
-    "axios": "1.13.5"
+    "axios": "1.13.6"
   },
   "devDependencies": {
     "@arethetypeswrong/cli": "0.18.2",
